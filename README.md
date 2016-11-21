@@ -2,7 +2,6 @@
 A simple project in ODEVA
 
  - On [GitHub](https://github.com/Elisyo/Odeva)
-
  - On [Travis](https://travis-ci.org/Elisyo/Odeva)
 
 ## Site of our teacher
@@ -23,7 +22,7 @@ https://maven.apache.org/guides/getting-started/
  - Analyse statique de code : Codeclimate, Scrutinizer, ...
  - Couverture de code : Coveralls, ...
  
-# Useful commands with Git
+## Useful commands with Git
  - git rm --cached <fichier> [annule un add]
  - git checkout -f [annule toutes les modifications]
  - git reset --hard [supprime aussi les nouveaux fichiers non suivis]
@@ -43,7 +42,7 @@ https://maven.apache.org/guides/getting-started/
  - stash
  	- git stash save "Sauvegarde des modifs sur mon fichier"
  	- git stash list
- 	- git stash show -p stash@{0} ['stash@{0}' est récupérer grâce à 'stash list']
+ 	- git stash show -p stash@{0} ['stash@{0}' est récupéré grâce à 'stash list']
  	- git stash pop [remet nos modifs]
  	- git stash list && git status
  	- git stash save -u "Sauvegarde des modifs y compris des ajouts"
