@@ -26,3 +26,4 @@ https://github.com/seblucas/cops/blob/master/.travis.yml
  - git reset --hard [supprime aussi les nouveaux fichiers non suivis]
  - git add -i / -p  [commit que d'une partie d'un fichier]
  - git diff --ignore-all-space [ne prend pas en compte l'indentation]
+ - git commit --amen (--no-edit) [permet d'écraset le message de commit uniquement si aucun push n'a été fait]
