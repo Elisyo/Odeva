@@ -21,8 +21,10 @@ https://github.com/seblucas/cops/blob/master/.travis.yml
  - Couverture de code : Coveralls, ...
  
 # Useful commands with Git
- - git rm --cached <fichier> [annule un add]
- - git checkout -f [annule toutes les modifications]
- - git reset --hard [supprime aussi les nouveaux fichiers non suivis]
- - git add -i / -p  [commit que d'une partie d'un fichier]
- - git diff --ignore-all-space [ne prend pas en compte l'indentation]
+<code>
+ git rm --cached <fichier> #annule un add
+ git checkout -f #annule toutes les modifications
+ git reset --hard #supprime aussi les nouveaux fichiers non suivis
+ git add -i / -p  #commit que d'une partie d'un fichier
+ git diff --ignore-all-space #ne prend pas en compte l'indentation
+</code>
