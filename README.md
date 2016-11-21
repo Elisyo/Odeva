@@ -8,15 +8,13 @@ A simple project in ODEVA
 ## Site of our teacher
 https://github.com/seblucas/odeva/blob/master/odeva.md
 
-# Base of markdown for this README
-https://github.com/tchapi/markdown-cheatsheet
+# [Markdown docs](https://github.com/tchapi/markdown-cheatsheet) for this README
 
-# How to use **Maven**
-https://maven.apache.org/guides/getting-started/
+# How to use [Maven](https://maven.apache.org/guides/getting-started/)
 
 # Some good examples of .yml for travis
-https://github.com/seblucas/firebase-sensor/blob/master/.travis.yml
-https://github.com/seblucas/cops/blob/master/.travis.yml
+ - https://github.com/seblucas/firebase-sensor/blob/master/.travis.yml
+ - https://github.com/seblucas/cops/blob/master/.travis.yml
 
 # Autres outils intégrés :
  - Selenium / Appium : Saucelabs, Browserstack, ...
