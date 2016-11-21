@@ -11,6 +11,11 @@
 		</developer>
 	</developers> 
 	<organization>
-	<name>Elisyo</name>
-	</organization> 
+		<name>Elisyo</name>
+	</organization>
+	<build>
+		<sourceDirectory>
+			${basedir}/src
+		</sourceDirectory>
+	</build> 
 </project>
