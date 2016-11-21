@@ -40,4 +40,19 @@ https://github.com/seblucas/cops/blob/master/.travis.yml
  	- reword [renommage de message]
  	- drop [suppression d'un commit]
  	- exec [execute une commande]
+ - stash
+ 	- git stash save "Sauvegarde des modifs sur mon fichier"
+ 	- git stash list
+ 	- git stash show -p stash@{0} ['stash@{0}' est récupérer grâce à 'stash list']
+ 	- git stash pop [remet nos modifs]
+ 	- git stash list && git status
+ 	- git stash save -u "Sauvegarde des modifs y compris des ajouts"
+ 	- git stash clear [attention : irrémédiable]
+ 	- git stash branch <branchname> <stashname>
+ 	
+ 
+ 
+ 
+ 
+ 
  
