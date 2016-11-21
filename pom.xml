@@ -1,5 +1,8 @@
 <project>
 	<name>Odeva</name>
+	<groupId>Odeva</groupId>
+	<artifactId>Odeva.maven</artifactId>
+	<version>0.1</version>
 	<properties>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
