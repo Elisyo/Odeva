@@ -22,6 +22,9 @@ https://maven.apache.org/guides/getting-started/
  - Analyse statique de code : Codeclimate, Scrutinizer, ...
  - Couverture de code : Coveralls, ...
  
+## Git Attidude
+http://www.git-attitude.fr/2013/05/22/prompt-git-qui-dechire/
+
 ## Useful commands with Git
  - git rm --cached <fichier> [annule un add]
  - git checkout -f [annule toutes les modifications]
