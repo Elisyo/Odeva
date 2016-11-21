@@ -3,7 +3,7 @@
 	<groupId>Odeva</groupId>
 	<artifactId>Odeva.maven</artifactId>
 	<packaging>jar</packaging>
-	<modelVersion>1.0.0</modelVersion>
+	<modelVersion>4.0.0</modelVersion>
   	<version>1.0-SNAPSHOT</version>
   	<url>https://github.com/Elisyo/Odeva</url>
 	<properties>
