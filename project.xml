@@ -1,0 +1,16 @@
+<project>
+	<id>P001</id>
+	<name>TestMaven</name>
+	<currentVersion>1.0</currentVersion>
+	<shortDescription>Test avec Maven</shortDescription>
+	<developers>
+		<developer>
+			<name>Florian GUILBERT</name>
+			<id>Elisyo</id>
+			<email>flo@test.fr</email>
+		</developer>
+	</developers> 
+	<organization>
+	<name>Elisyo</name>
+	</organization> 
+</project>
