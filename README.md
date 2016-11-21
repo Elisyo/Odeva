@@ -30,3 +30,12 @@ https://github.com/seblucas/cops/blob/master/.travis.yml
  - git add -i / -p  [commit que d'une partie d'un fichier]
  - git diff --ignore-all-space [ne prend pas en compte l'indentation]
  - git commit --amen (--no-edit) [permet d'écraset le message de commit uniquement si aucun push n'a été fait]
+ - git checkout -b new-feature [faites plusieurs modifications et plusieurs commits]
+ - git commit -a -m "Début"
+ - git commit -a -m "Modification du précédent"
+ - git rebase -i master
+ 	- pick [conserver un commit]
+ 	- squash/fixup [fusionner 2 commits]
+ 	- edit [decouper un commit]
+ 	- reword [renommage de message]
+ 
