@@ -10,3 +10,8 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/bin/
+#don't take the classpath for my own jar
+.classpath
+#don't take my settings of eclipse
+org.eclipse.jdt.core.prefs-.settings
