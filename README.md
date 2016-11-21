@@ -1,6 +1,12 @@
 # Odeva
 A simple project in ODEVA
 
+# On GitHub : 
+https://github.com/Elisyo/Odeva
+
+# On Travis :
+https://travis-ci.org/Elisyo/Odeva
+
 # Site of our teacher
 https://github.com/seblucas/odeva/blob/master/odeva.md
 
