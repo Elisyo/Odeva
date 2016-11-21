@@ -1,22 +1,10 @@
 <project>
 	<name>Odeva</name>
-	<currentVersion>1.0</currentVersion>
 	<properties>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
   	</properties>
-	<shortDescription>Test avec Maven</shortDescription>
-	<developers>
-		<developer>
-			<name>Florian GUILBERT</name>
-			<id>Elisyo</id>
-			<email>flo@test.fr</email>
-		</developer>
-	</developers> 
-	<organization>
-		<name>Elisyo</name>
-	</organization>
-	<build>
+  	<build>
 		<plugins>
 	      	<plugin>
 		        <groupId>org.apache.maven.plugins</groupId>
@@ -31,5 +19,16 @@
 		<sourceDirectory>
 			${basedir}/src
 		</sourceDirectory>
-	</build> 
+	</build>
+	<developers>
+		<developer>
+			<name>Florian GUILBERT</name>
+			<id>Elisyo</id>
+			<email>flo@test.fr</email>
+		</developer>
+	</developers> 
+	<organization>
+		<name>Elisyo</name>
+	</organization>
+	 
 </project>
