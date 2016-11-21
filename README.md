@@ -38,4 +38,6 @@ https://github.com/seblucas/cops/blob/master/.travis.yml
  	- squash/fixup [fusionner 2 commits]
  	- edit [decouper un commit]
  	- reword [renommage de message]
+ 	- drop [suppression d'un commit]
+ 	- exec [execute une commande]
  
